@@ -16,7 +16,7 @@ showing the qr code component")
 
 ### Links
 - Solution URL: [This repo](https://github.com/santigo-zero/frontend-mentor-qr-code-component)
-- TODO Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [GitHub Page](https://santigo-zero.github.io/frontend-mentor-qr-code-component/)
 
 ## My process
 
